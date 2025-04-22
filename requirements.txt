@@ -1,0 +1,7 @@
+kagglehub
+pandas
+seaborn
+matplotlib
+ydata-profiling
+pandas-profiling
+pydantic==1.10.13
